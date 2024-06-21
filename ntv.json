@@ -1,23 +1,22 @@
 {
-	"NTV": [
-
-	{
-		"id": "1",
-		"name": "Discovery Science"
-		"image": "https://local/disc.jpg"
-		"url": https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
-	},
-	{
-		"id": "2",
-		"name": "Discovery Science"
-		"image": "https://local/disc.jpg"
-		"url": https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
-	},
-	{
-		"id": "3",
-		"name": "Discovery Science"
-		"image": "https://local/disc.jpg"
-		"url": https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
-	}
-	]
+    "NTV": [
+        {
+            "id": "1",
+            "name": "Discovery Science",
+            "image": "https://local/disc.jpg",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
+        },
+        {
+            "id": "2",
+            "name": "Discovery Science",
+            "image": "https://local/disc.jpg",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
+        },
+        {
+            "id": "3",
+            "name": "Discovery Science",
+            "image": "https://local/disc.jpg",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
+        }
+    ]
 }
