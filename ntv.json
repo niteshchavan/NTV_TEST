@@ -8,21 +8,21 @@
         },
         {
             "id": "2",
-            "name": "Zee Marathi",
-            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-            "url": "http://103.120.172.74:1040"
+            "name": "Investigation Discovery",
+            "image": "https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png",
+            "url": "https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8"
         },
         {
             "id": "3",
-            "name": "Star Pravah",
-            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-            "url": "http://103.120.172.74:1060"
+            "name": "Discovery Turbo (BD)h",
+            "image": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8"
         },
         {
             "id": "4",
-            "name": "Zee Action(BD)",
-            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",
-            "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8"
+            "name": "Discovery Hindi HD(BD)",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
+            "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8"
         }
         
     ]
